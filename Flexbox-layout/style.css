@@ -95,3 +95,27 @@
     width: 270px;
     
 }
+
+
+.footer{
+    padding: 1%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(242, 244, 246);
+    
+      
+}
+.left-footer img{
+    padding: 20px;
+    width: 130px;
+    height: 30px;
+}
+.right-footer{
+    display: flex;
+}
+.right-footer i{
+    padding: 20px;
+    font-size: 30px;
+    
+}
