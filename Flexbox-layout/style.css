@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    margin: 0%;
+    padding: 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.left-head a {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+.right-head {
+    padding: 1%;
+    display: flex;
+    flex-direction: row;
+}
+
+.right-head a {
+    margin: 0px;
+    padding: 25px;
+    text-decoration: none;
+    font-weight: bold;
+}
